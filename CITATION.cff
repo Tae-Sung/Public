@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+title: "Conference talks — Tae-Sung Yoon (KRIBB)"
+message: "If you use or refer to these slides, please cite the talk below."
+type: dataset
+abstract: >-
+  Presentation slides (PDF) from conference talks by Tae-Sung Yoon on
+  crystallographic computing, sweet protein crystallography, and the use of
+  the Model Context Protocol as an orchestration layer for crystallographic
+  software.
+authors:
+  - family-names: Yoon
+    given-names: Tae-Sung
+    email: yoonts@KRIBB.re.kr
+    affiliation: "Bio-design & Editing Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+    city: Daejeon
+    country: KR
+    orcid: "https://orcid.org/0000-0002-2898-6137"
+repository-code: "https://github.com/Tae-Sung/Public"
+url: "https://github.com/Tae-Sung/Public"
+license: CC-BY-4.0
+version: "2026.08.17"
+date-released: "2026-08-17"
+keywords:
+  - crystallography
+  - Model Context Protocol
+  - DIALS
+  - CCP4
+  - nanoBragg
+  - reproducibility
+  - sweet proteins
+
+preferred-citation:
+  type: conference-paper
+  title: "Model Context Protocol: A New Genie for Crystallography"
+  authors:
+    - family-names: Yoon
+      given-names: Tae-Sung
+      orcid: "https://orcid.org/0000-0002-2898-6137"
+      affiliation: "Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+  conference:
+    name: "27th Congress and General Assembly of the International Union of Crystallography (IUCr2026), Microsymposium MS-116"
+    city: Calgary
+    region: Alberta
+    country: CA
+    date-start: "2026-08-11"
+    date-end: "2026-08-18"
+  year: 2026
+  month: 8
+  notes: "Abstract No. 432. Presented 17 August 2026."
+  url: "https://github.com/Tae-Sung/Public/blob/main/260817_IUCr2026.pdf"
+
+references:
+  - type: conference-paper
+    title: "Sweet Protein Crystallography in Post-AlphaFold Era: Dialogues Concerning Two 'New' Sciences"
+    authors:
+      - family-names: Yoon
+        given-names: Tae-Sung
+        orcid: "https://orcid.org/0000-0002-2898-6137"
+        affiliation: "Korea Research Institute of Bioscience and Biotechnology (KRIBB)"
+    conference:
+      name: "73rd Annual Meeting of the American Crystallographic Association (ACA2023), Session 2.1.2"
+      city: Baltimore
+      region: Maryland
+      country: US
+      date-start: "2023-07-07"
+      date-end: "2023-07-11"
+    year: 2023
+    month: 7
+    notes: "Presented 9 July 2023. Published abstract: Acta Cryst. (2023) A79, a179."
+    url: "https://github.com/Tae-Sung/Public/blob/main/230709_ACA2023.pdf"
